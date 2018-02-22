@@ -1,5 +1,5 @@
 function hey_there() {
-	console.log("Hi from typescript");
+	console.log("Hi from TypeScript");
 }
 
 hey_there();
